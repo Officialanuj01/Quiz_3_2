@@ -1,0 +1,46 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .custom-functional-btn {
+    border-radius: 20px;
+    padding: 12px;
+    background-color: rgb(10, 179, 6);
+  }
+  
+  .custom-result-box {
+    display: grid;
+    grid-template-rows: auto auto;
+    padding: 10px;
+    grid-template-columns: 380px 380px;
+    gap: 15px;
+  }
+  
+  .custom-result {
+    color: black;
+  }
+  
+  .custom-tagline {
+    font-size: 20px;
+  }
+  
+  .custom-details-box {
+    background-color: rgb(30, 161, 241);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+  }
+  
+  .custom-details {
+    margin-right: auto;
+  }
+  
+  .custom-score {
+    font-weight: bold;
+    color: black;
+  }
+  
+  
